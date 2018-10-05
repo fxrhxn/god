@@ -5,5 +5,5 @@
 </h2>
 
 <h3>
-  python <(curl "https://raw.githubusercontent.com/fxrhxn/bubble_setup/master/script.py" -s -N)
+python <(curl "https://raw.githubusercontent.com/fxrhxn/god/master/god.py" -s -N)
 </h3>
